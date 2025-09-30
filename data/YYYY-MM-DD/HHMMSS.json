@@ -1,0 +1,10 @@
+
+Example payload:
+```json
+{
+  "ts": "2025-09-30T17:47:05+00:00",
+  "pools": [
+    { "chain": "Base", "pair": "ETH/USDC", "volatility_24h_pct": 1.24, "volume_24h_usd": 245123.55, "fee_apr_est_pct": 7.8 },
+    { "chain": "Arbitrum", "pair": "ETH/USDT", "volatility_24h_pct": 2.91, "volume_24h_usd": 1054111.02, "fee_apr_est_pct": 12.3 }
+  ]
+}
