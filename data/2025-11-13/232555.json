@@ -1,0 +1,26 @@
+{
+  "ts": "2025-11-13T23:25:55+00:00",
+  "pools": [
+    {
+      "chain": "Base",
+      "pair": "ETH/USDC",
+      "volatility_24h_pct": 4.79,
+      "volume_24h_usd": 801642.36,
+      "fee_apr_est_pct": 3.68
+    },
+    {
+      "chain": "Arbitrum",
+      "pair": "ETH/USDT",
+      "volatility_24h_pct": 2.95,
+      "volume_24h_usd": 1035612.69,
+      "fee_apr_est_pct": 4.31
+    },
+    {
+      "chain": "OP",
+      "pair": "WBTC/ETH",
+      "volatility_24h_pct": 1.39,
+      "volume_24h_usd": 548231.93,
+      "fee_apr_est_pct": 5.81
+    }
+  ]
+}
